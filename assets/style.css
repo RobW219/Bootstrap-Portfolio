@@ -1,0 +1,62 @@
+body {
+	background-image: url(../assets/topography.png);
+	}
+
+.navbar-header .navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+	}
+
+ul {
+	color: #777777;
+	}
+
+.jumbotron h1 {
+	color: #4aaaa5;
+}
+
+#navRight {
+	float: right;
+}
+
+#cycling {
+	padding-top: 20pt;
+	height: 200pt;
+	width: 200pt;
+}
+
+#gaming {
+	padding-top: 20pt;
+	height: 200pt;
+	width: 200pt;
+}
+
+#police {
+	padding-top: 20pt;
+	height: 200pt;
+	width: 200pt;
+}
+
+#harley {
+	padding-top: 20pt;
+	height: 200pt;
+	width: 200pt;
+}
+
+#rockroll {
+	padding-top: 20pt;
+	height: 200pt;
+	width: 200pt;
+}
+
+
+
+
+
+
+.panel-footer {
+	background-color: #666666;
+	color: white;
+	text-align: center;
+	border-top: 10pt solid #4aaaa5;
+}
