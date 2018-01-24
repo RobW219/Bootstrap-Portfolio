@@ -13,6 +13,13 @@ ul {
 
 .jumbotron h1 {
 	color: #4aaaa5;
+
+}
+
+#aboutMe {
+	height: 380px;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 
 #navRight {
@@ -21,31 +28,31 @@ ul {
 
 #cycling {
 	padding-top: 20pt;
-	height: 200pt;
+	height: auto;
 	width: 200pt;
 }
 
 #gaming {
 	padding-top: 20pt;
-	height: 200pt;
+	height: auto;
 	width: 200pt;
 }
 
 #police {
 	padding-top: 20pt;
-	height: 200pt;
+	height: auto;
 	width: 200pt;
 }
 
 #harley {
 	padding-top: 20pt;
-	height: 200pt;
+	height: auto;
 	width: 200pt;
 }
 
 #rockroll {
 	padding-top: 20pt;
-	height: 200pt;
+	height: auto;
 	width: 200pt;
 }
 
